@@ -1,0 +1,48 @@
+body {
+    background: url(../img/background-main.png) no-repeat center top / cover;
+    font-family: Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.logo_rubin {
+    width: 200px;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 1px;
+    margin-bottom: 100px;
+}
+
+.input_search {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-size: 16pt;
+    background-color: black;
+    position: absolute;
+    left: 400px;
+    top: 30px;
+    width: 550px;
+    height: 60px;
+    z-index: 3;
+    border: none;
+  }
+
+  .cool {
+    background-image: url(../img/lol.gif);
+    width: 500px;
+    height: 400px;
+    position: absolute; top: 300px;
+}
+
+.milash {
+    position: absolute;
+    top: 300px;
+    left: 400px;
+    right: 100px;
+    color: white;
+}
+
+  
+  
+  
+ 
+  
