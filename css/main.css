@@ -4,3 +4,13 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+
+.menu-bar a {
+    font-size: 20pt;
+    color: white;
+}
+.menu-bar a:hover {
+    color: red;
+    font-size: 40pt;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
