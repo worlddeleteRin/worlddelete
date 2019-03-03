@@ -5,12 +5,14 @@ body {
     background-attachment: fixed;
 }
 
-.menu-bar a {
+.menu-bar li {
+    display: inline;
     font-size: 20pt;
     color: white;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
 }
-.menu-bar a:hover {
-    color: red;
-    font-size: 40pt;
-    font-family: 'ZCOOL QingKe HuangYou', cursive;
-}
+
+

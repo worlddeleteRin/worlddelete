@@ -1,0 +1,12 @@
+body {
+    background-image: url(../img/1.jpg)
+}
+
+.nastya_super {
+    font-size: 44pt;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    position: center;
+    font-weight: 900;
+}
+
