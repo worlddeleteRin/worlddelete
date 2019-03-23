@@ -1,0 +1,36 @@
+
+#myBar {
+    position: relative;
+    top: 300px;
+    left: 250px;
+    width: 10%;
+    height: 30px;
+    background-color: #d51d39;
+    text-align: center; /* To center it horizontally (if you want) */
+    line-height: 30px; /* To center it vertically */
+    color: white; 
+  }
+
+#progress_btn {
+    position: relative;
+    top: 350px;
+    left: 300px;
+}
+
+#myBar2 {
+    position: relative;
+    top: 500px;
+    left: 250px;
+    width: 10%;
+    height: 30px;
+    background-color: #d51d39;
+    text-align: center; /* To center it horizontally (if you want) */
+    line-height: 30px; /* To center it vertically */
+    color: white; 
+  }
+
+#progress_btn2 {
+    position: relative;
+    top: 550px;
+    left: 300px;
+}

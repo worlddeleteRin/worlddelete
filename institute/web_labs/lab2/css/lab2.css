@@ -1,0 +1,16 @@
+#my_par1 {
+    position: absolute;
+    top: 1000px;
+}
+
+body {
+    background-image: url(../img/gris.jpeg);
+    background-repeat: no-repeat;
+    background-position: 100%;
+}
+
+
+#menu > a {
+    color: white;
+    font-size: 18pt;
+}
